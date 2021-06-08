@@ -15,6 +15,7 @@
 		85E52113266F697F00F16051 /* animations_in_swiftuiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E52112266F697F00F16051 /* animations_in_swiftuiUITests.swift */; };
 		85E52121266F781800F16051 /* ImplicitAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E52120266F781800F16051 /* ImplicitAnimations.swift */; };
 		85E52123266F79A500F16051 /* CustomizedAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E52122266F79A500F16051 /* CustomizedAnimations.swift */; };
+		85E52125266F7DA900F16051 /* AnimationBindings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E52124266F7DA900F16051 /* AnimationBindings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		85E52114266F697F00F16051 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		85E52120266F781800F16051 /* ImplicitAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplicitAnimations.swift; sourceTree = "<group>"; };
 		85E52122266F79A500F16051 /* CustomizedAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizedAnimations.swift; sourceTree = "<group>"; };
+		85E52124266F7DA900F16051 /* AnimationBindings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBindings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				85E520FB266F697F00F16051 /* Preview Content */,
 				85E52120266F781800F16051 /* ImplicitAnimations.swift */,
 				85E52122266F79A500F16051 /* CustomizedAnimations.swift */,
+				85E52124266F7DA900F16051 /* AnimationBindings.swift */,
 			);
 			path = "animations-in-swiftui";
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85E52125266F7DA900F16051 /* AnimationBindings.swift in Sources */,
 				85E52121266F781800F16051 /* ImplicitAnimations.swift in Sources */,
 				85E520F8266F697A00F16051 /* ContentView.swift in Sources */,
 				85E520F6266F697A00F16051 /* animations_in_swiftuiApp.swift in Sources */,
