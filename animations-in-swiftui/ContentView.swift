@@ -12,7 +12,8 @@ struct ContentView: View {
 //        ImplicitAnimations()
 //        CustomizedAnimations()
 //        AnimatingBindings()
-        ExplicitAnimations()
+//        ExplicitAnimations()
+        ControllingAnimationStack()
     }
 }
 
