@@ -13,6 +13,7 @@
 		85E520FD266F697F00F16051 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85E520FC266F697F00F16051 /* Preview Assets.xcassets */; };
 		85E52108266F697F00F16051 /* animations_in_swiftuiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E52107266F697F00F16051 /* animations_in_swiftuiTests.swift */; };
 		85E52113266F697F00F16051 /* animations_in_swiftuiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E52112266F697F00F16051 /* animations_in_swiftuiUITests.swift */; };
+		85E52121266F781800F16051 /* ImplicitAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E52120266F781800F16051 /* ImplicitAnimations.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		85E5210E266F697F00F16051 /* animations-in-swiftuiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "animations-in-swiftuiUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85E52112266F697F00F16051 /* animations_in_swiftuiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animations_in_swiftuiUITests.swift; sourceTree = "<group>"; };
 		85E52114266F697F00F16051 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		85E52120266F781800F16051 /* ImplicitAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplicitAnimations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				85E520F9266F697F00F16051 /* Assets.xcassets */,
 				85E520FE266F697F00F16051 /* Info.plist */,
 				85E520FB266F697F00F16051 /* Preview Content */,
+				85E52120266F781800F16051 /* ImplicitAnimations.swift */,
 			);
 			path = "animations-in-swiftui";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85E52121266F781800F16051 /* ImplicitAnimations.swift in Sources */,
 				85E520F8266F697A00F16051 /* ContentView.swift in Sources */,
 				85E520F6266F697A00F16051 /* animations_in_swiftuiApp.swift in Sources */,
 			);
