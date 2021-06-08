@@ -14,7 +14,8 @@ struct ContentView: View {
 //        AnimatingBindings()
 //        ExplicitAnimations()
 //        ControllingAnimationStack()
-        AnimatingGestures()
+//        AnimatingGestures()
+        Transitions()
     }
 }
 
