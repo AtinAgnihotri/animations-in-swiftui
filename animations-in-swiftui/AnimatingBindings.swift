@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct AnimationBindings: View {
+struct AnimatingBindings: View {
     @State private var animationScale: CGFloat = 1
     
     var body: some View {
@@ -38,6 +38,6 @@ struct AnimationBindings: View {
 
 struct AnimationBindings_Previews: PreviewProvider {
     static var previews: some View {
-        AnimationBindings()
+        AnimatingBindings()
     }
 }
