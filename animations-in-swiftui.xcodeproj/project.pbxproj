@@ -18,6 +18,7 @@
 		85E52125266F7DA900F16051 /* AnimatingBindings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E52124266F7DA900F16051 /* AnimatingBindings.swift */; };
 		85E52127266F806300F16051 /* ExplicitAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E52126266F806200F16051 /* ExplicitAnimations.swift */; };
 		85E52129266F86AA00F16051 /* ControllingAnimationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E52128266F86AA00F16051 /* ControllingAnimationStack.swift */; };
+		85E5212B266F8CE500F16051 /* AnimatingGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E5212A266F8CE500F16051 /* AnimatingGestures.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		85E52124266F7DA900F16051 /* AnimatingBindings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingBindings.swift; sourceTree = "<group>"; };
 		85E52126266F806200F16051 /* ExplicitAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExplicitAnimations.swift; sourceTree = "<group>"; };
 		85E52128266F86AA00F16051 /* ControllingAnimationStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllingAnimationStack.swift; sourceTree = "<group>"; };
+		85E5212A266F8CE500F16051 /* AnimatingGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingGestures.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				85E52124266F7DA900F16051 /* AnimatingBindings.swift */,
 				85E52126266F806200F16051 /* ExplicitAnimations.swift */,
 				85E52128266F86AA00F16051 /* ControllingAnimationStack.swift */,
+				85E5212A266F8CE500F16051 /* AnimatingGestures.swift */,
 			);
 			path = "animations-in-swiftui";
 			sourceTree = "<group>";
@@ -278,6 +281,7 @@
 				85E52121266F781800F16051 /* ImplicitAnimations.swift in Sources */,
 				85E520F8266F697A00F16051 /* ContentView.swift in Sources */,
 				85E520F6266F697A00F16051 /* animations_in_swiftuiApp.swift in Sources */,
+				85E5212B266F8CE500F16051 /* AnimatingGestures.swift in Sources */,
 				85E52127266F806300F16051 /* ExplicitAnimations.swift in Sources */,
 				85E52123266F79A500F16051 /* CustomizedAnimations.swift in Sources */,
 				85E52129266F86AA00F16051 /* ControllingAnimationStack.swift in Sources */,
