@@ -20,6 +20,7 @@
 		85E52129266F86AA00F16051 /* ControllingAnimationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E52128266F86AA00F16051 /* ControllingAnimationStack.swift */; };
 		85E5212B266F8CE500F16051 /* AnimatingGestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E5212A266F8CE500F16051 /* AnimatingGestures.swift */; };
 		85E5212D266FA45300F16051 /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E5212C266FA45300F16051 /* Transitions.swift */; };
+		85E5212F266FA70300F16051 /* CustomTransitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85E5212E266FA70300F16051 /* CustomTransitions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		85E52128266F86AA00F16051 /* ControllingAnimationStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControllingAnimationStack.swift; sourceTree = "<group>"; };
 		85E5212A266F8CE500F16051 /* AnimatingGestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingGestures.swift; sourceTree = "<group>"; };
 		85E5212C266FA45300F16051 /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
+		85E5212E266FA70300F16051 /* CustomTransitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTransitions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				85E52128266F86AA00F16051 /* ControllingAnimationStack.swift */,
 				85E5212A266F8CE500F16051 /* AnimatingGestures.swift */,
 				85E5212C266FA45300F16051 /* Transitions.swift */,
+				85E5212E266FA70300F16051 /* CustomTransitions.swift */,
 			);
 			path = "animations-in-swiftui";
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 				85E52127266F806300F16051 /* ExplicitAnimations.swift in Sources */,
 				85E52123266F79A500F16051 /* CustomizedAnimations.swift in Sources */,
 				85E52129266F86AA00F16051 /* ControllingAnimationStack.swift in Sources */,
+				85E5212F266FA70300F16051 /* CustomTransitions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
